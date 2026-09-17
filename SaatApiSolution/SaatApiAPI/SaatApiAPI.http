@@ -1,0 +1,6 @@
+@SaatApiAPI_HostAddress = http://localhost:5228
+
+GET {{SaatApiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

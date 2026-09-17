@@ -1,0 +1,12 @@
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\bin\Debug\net9.0\SaatApiCore.deps.json
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\bin\Debug\net9.0\SaatApiCore.dll
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\bin\Debug\net9.0\SaatApiCore.pdb
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.AssemblyInfoInputs.cache
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.AssemblyInfo.cs
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.sourcelink.json
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.dll
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\refint\SaatApiCore.dll
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\SaatApiCore.pdb
+C:\Users\bugra\Desktop\Staj\Proje-2-Api\SaatApiSolution\SaatApiCore\obj\Debug\net9.0\ref\SaatApiCore.dll

@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\entities\\saatitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\entities\\saatitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapidataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|solutionrelative:saatapidataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapidataaccess\\repositories\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|solutionrelative:saatapidataaccess\\repositories\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7801F8-2778-44E3-8530-D78F25E4EBB2}|SaatApiBusiness\\SaatApiBusiness.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapibusiness\\services\\kayitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7801F8-2778-44E3-8530-D78F25E4EBB2}|SaatApiBusiness\\SaatApiBusiness.csproj|solutionrelative:saatapibusiness\\services\\kayitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\interfaces\\ikayitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\interfaces\\ikayitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\interfaces\\ikayitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\interfaces\\ikayitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\controllers\\saatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\controllers\\saatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapidataaccess\\repositories\\kayitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|solutionrelative:saatapidataaccess\\repositories\\kayitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\controllers\\kayitatamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\controllers\\kayitatamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\entities\\kayitatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\entities\\kayitatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\interfaces\\isaatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\interfaces\\isaatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\interfaces\\isaatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\interfaces\\isaatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapidataaccess\\repositories\\saatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|solutionrelative:saatapidataaccess\\repositories\\saatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7801F8-2778-44E3-8530-D78F25E4EBB2}|SaatApiBusiness\\SaatApiBusiness.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapibusiness\\services\\saatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7801F8-2778-44E3-8530-D78F25E4EBB2}|SaatApiBusiness\\SaatApiBusiness.csproj|solutionrelative:saatapibusiness\\services\\saatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapicore\\dtos\\saatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820084E-09EB-4A5E-BF99-A69A91BE01CC}|SaatApiCore\\SaatApiCore.csproj|solutionrelative:saatapicore\\dtos\\saatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\saatapiapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\saatapiapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A52DD22-871B-45A9-A4D5-B16E61D8E1CC}|SaatApiAPI\\SaatApiAPI.csproj|solutionrelative:saatapiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7801F8-2778-44E3-8530-D78F25E4EBB2}|SaatApiBusiness\\SaatApiBusiness.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapibusiness\\saatapibusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD7801F8-2778-44E3-8530-D78F25E4EBB2}|SaatApiBusiness\\SaatApiBusiness.csproj|solutionrelative:saatapibusiness\\saatapibusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|c:\\users\\bugra\\desktop\\staj\\proje-2-api\\saatapisolution\\saatapidataaccess\\saatapidataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{482523CC-909A-4937-AACA-B23F7A65DA4A}|SaatApiDataAccess\\SaatApiDataAccess.csproj|solutionrelative:saatapidataaccess\\saatapidataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KayitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Repositories\\KayitRepository.cs",
+              "RelativeDocumentMoniker": "SaatApiDataAccess\\Repositories\\KayitRepository.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Repositories\\KayitRepository.cs",
+              "RelativeToolTip": "SaatApiDataAccess\\Repositories\\KayitRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:41:27.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKayitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\IKayitRepository.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Interfaces\\IKayitRepository.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\IKayitRepository.cs",
+              "RelativeToolTip": "SaatApiCore\\Interfaces\\IKayitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:40:06.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKayitService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\IKayitService.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Interfaces\\IKayitService.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\IKayitService.cs",
+              "RelativeToolTip": "SaatApiCore\\Interfaces\\IKayitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:36:45.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KayitService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiBusiness\\Services\\KayitService.cs",
+              "RelativeDocumentMoniker": "SaatApiBusiness\\Services\\KayitService.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiBusiness\\Services\\KayitService.cs",
+              "RelativeToolTip": "SaatApiBusiness\\Services\\KayitService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:36:26.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaatController.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Controllers\\SaatController.cs",
+              "RelativeDocumentMoniker": "SaatApiAPI\\Controllers\\SaatController.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Controllers\\SaatController.cs",
+              "RelativeToolTip": "SaatApiAPI\\Controllers\\SaatController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T13:22:05.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KayitAtamaController.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Controllers\\KayitAtamaController.cs",
+              "RelativeDocumentMoniker": "SaatApiAPI\\Controllers\\KayitAtamaController.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Controllers\\KayitAtamaController.cs",
+              "RelativeToolTip": "SaatApiAPI\\Controllers\\KayitAtamaController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:04:30.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KayitAtama.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Entities\\KayitAtama.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Entities\\KayitAtama.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Entities\\KayitAtama.cs",
+              "RelativeToolTip": "SaatApiCore\\Entities\\KayitAtama.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T06:58:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SaatApiAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SaatApiAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T13:10:50.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaatApiAPI.http",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\SaatApiAPI.http",
+              "RelativeDocumentMoniker": "SaatApiAPI\\SaatApiAPI.http",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\SaatApiAPI.http",
+              "RelativeToolTip": "SaatApiAPI\\SaatApiAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-17T13:10:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SaatApiAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SaatApiAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T13:10:41.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SaatApiAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SaatApiAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-17T13:09:52.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Repositories\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "SaatApiDataAccess\\Repositories\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Repositories\\GenericRepo.cs",
+              "RelativeToolTip": "SaatApiDataAccess\\Repositories\\GenericRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:51:14.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "SaatApiCore\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:45:07.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaatApiDataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\SaatApiDataAccess.csproj",
+              "RelativeDocumentMoniker": "SaatApiDataAccess\\SaatApiDataAccess.csproj",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\SaatApiDataAccess.csproj",
+              "RelativeToolTip": "SaatApiDataAccess\\SaatApiDataAccess.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T13:48:02.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaatService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiBusiness\\Services\\SaatService.cs",
+              "RelativeDocumentMoniker": "SaatApiBusiness\\Services\\SaatService.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiBusiness\\Services\\SaatService.cs",
+              "RelativeToolTip": "SaatApiBusiness\\Services\\SaatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T13:25:19.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaatApiBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiBusiness\\SaatApiBusiness.csproj",
+              "RelativeDocumentMoniker": "SaatApiBusiness\\SaatApiBusiness.csproj",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiBusiness\\SaatApiBusiness.csproj",
+              "RelativeToolTip": "SaatApiBusiness\\SaatApiBusiness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T13:24:24.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SaatApiAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\appsettings.json",
+              "RelativeToolTip": "SaatApiAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T13:16:54.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaatDto.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\DTOs\\SaatDto.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\DTOs\\SaatDto.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\DTOs\\SaatDto.cs",
+              "RelativeToolTip": "SaatApiCore\\DTOs\\SaatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T12:38:11.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Repositories\\SaatRepository.cs",
+              "RelativeDocumentMoniker": "SaatApiDataAccess\\Repositories\\SaatRepository.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Repositories\\SaatRepository.cs",
+              "RelativeToolTip": "SaatApiDataAccess\\Repositories\\SaatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T13:07:21.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SaatApiDataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiDataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "SaatApiDataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T12:41:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISaatService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\ISaatService.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Interfaces\\ISaatService.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\ISaatService.cs",
+              "RelativeToolTip": "SaatApiCore\\Interfaces\\ISaatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T12:37:25.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISaatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\ISaatRepository.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Interfaces\\ISaatRepository.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Interfaces\\ISaatRepository.cs",
+              "RelativeToolTip": "SaatApiCore\\Interfaces\\ISaatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T12:36:38.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaatItem.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Entities\\SaatItem.cs",
+              "RelativeDocumentMoniker": "SaatApiCore\\Entities\\SaatItem.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiCore\\Entities\\SaatItem.cs",
+              "RelativeToolTip": "SaatApiCore\\Entities\\SaatItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T12:35:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SaatApiAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Staj\\Proje-2-Api\\SaatApiSolution\\SaatApiAPI\\Program.cs",
+              "RelativeToolTip": "SaatApiAPI\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T12:33:00.605Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
