@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kullanıcı Takvimi</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="table.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="row my-5">
+      <div class="col-2" mr-2>
+        <div class="list-group">
+
+          <div class="list-group" id="list-tab" role="tablist">
+            <h3 style="color: white; text-align: center; background-color: #86d4f5; border-radius: 50px;">Kullanıcı<br>
+              Listesi</h3>
+          </div>
+
+        </div>
+      </div>
+      <div class="col-10">
+        <div class="row">
+          <div class="col-4">
+            <div class="input-group">
+              <select class="form-select bs-cyan-bg-subtle " id="inputGroupSelect04"
+                aria-label="Example select with button addon">
+                <option selected>Kapılar</option>
+                <option value="1">Kapı-1</option>
+                <option value="2">Kapı-2</option>
+                <option value="3">Kapı-3</option>
+                <option value="4">Kapı-4</option>
+                <option value="5">Kapı-5</option>
+                <option value="6">Kapı-6</option>
+              </select>
+              <button class="btn btn-outline-info " type="button">Seç</button>
+
+            </div>
+          </div>
+          <div id="secili-kullanici" class="col-4" bg-primary><b>KULLANICI SEÇİNİZ
+              <hr>
+            </b>
+
+          </div>
+          <div class="col-4 justify-content-end">
+            <section>
+              <div class="d-flex justify-content-end gap-2">
+                <button id="eraserButton" class="btn btn-outline-danger">
+                  <i class="bi bi-eraser"></i> Silgi
+                </button>
+
+                <button id="deleteAllButton" class="btn btn-danger">
+                  Tümünü Sil
+                </button>
+              </div>
+            </section>
+          </div>
+        </div>
+        <div class="row my-2">
+
+
+          <div class="col-md-12">
+            <div class="schedule-table">
+              <table class="table table-striped ozel-tablo table-hover " style="position: relative;">
+                <thead style="color:black ;">
+                  <tr>
+                    <th></th>
+                    <th>Pazartesi</th>
+                    <th>Salı</th>
+                    <th>Çarşamba</th>
+                    <th>Perşembe</th>
+                    <th>Cuma</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+
+                  <tr>
+                    <td class="day"></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                    <td class="active">
+
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td class="active">
+
+                      <div class="hover">
+
+                      </div>
+                    </td>
+                    <td></td>
+                  </tr>
+                </tbody>
+              </table>
+
+            </div>
+          </div>
+
+
+
+
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous">
+    </script>
+
+  <script src="app.js"></script>
+
+</body>
+
+</html>

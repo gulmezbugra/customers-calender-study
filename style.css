@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to right,white,rgb(178, 248, 248));
+    margin-top: 20px;
+}
+
+.btn.btn-outline-info{
+    color: rgb(2, 166, 255);
+
+}
+
+.btn.btn-outline-info:hover{
+    color: aliceblue;
+}
+
+.ozel-tablo{
+    --bs-table-striped-bg: rgb(178, 248, 248);
+}
+
+.list-group-item{
+    font-weight: bold;
+}
+
+.list-group-item.active{
+    background-color: #86d4f5;
+    border-color:white ;
+}
+
+#secili-kullanici {
+    font-weight: bold;
+}
+
+
+.schedule-table.eraser-mode td:hover {
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32'><text y='24' font-size='24'>🧽</text></svg>") 16 16, auto;
+    outline: 2px dashed red;
+    outline-offset: -2px;
+}
